@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 201 166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:6;">
+    <g transform="matrix(1,0,0,1,-192,-299)">
+        <g id="Karotte" transform="matrix(1.14333,0,0,1.14333,-27.5914,-42.8596)">
+            <g id="Base">
+                <path d="M192.503,443.463L200,407.58L220,360L240,330L260,330L278.787,337.973L281.408,362.327L260.084,395.097L227.966,424.368L192.503,443.463Z" style="fill:rgb(255,180,42);"/>
+                <path d="M192.503,443.463L200,407.58L220,360L240,330L260,330L278.787,337.973L281.408,362.327L260.084,395.097L227.966,424.368L192.503,443.463ZM243.511,336.56L225.805,363.118L206.292,409.54L201.808,431.003L224.145,418.975L255.045,390.815L274.636,360.707L272.677,342.506L258.666,336.56L243.511,336.56Z"/>
+            </g>
+            <g id="Green" transform="matrix(1,0,0,1,3.43419,6.08504)">
+                <path d="M255.096,345.85L260.762,309.269L300.324,292.942L342.53,311.409L363.996,416.71L339.973,384.614L329.439,412.133L315.097,377.599L297.312,410.965L286.583,339.21L255.096,345.85Z" style="fill:rgb(155,255,84);"/>
+                <path d="M255.096,345.85L260.762,309.269L300.324,292.942L342.53,311.409L363.996,416.71L339.973,384.614L329.439,412.133L315.097,377.599L297.312,410.965L286.583,339.21L255.096,345.85ZM351.729,389.374L336.782,316.055L300.249,300.07L266.679,313.924L263.031,337.472L292.041,331.355L300.864,390.356L315.834,362.271L329.19,394.433L338.098,371.163L351.729,389.374Z"/>
+                <path d="M264.102,320.205L285.813,312.795" style="fill:none;stroke:black;stroke-width:2.62px;"/>
+                <path d="M336.239,364.29L325.349,327.248L301.05,310.757" style="fill:none;stroke:black;stroke-width:2.62px;"/>
+                <g transform="matrix(1,0,0,1,5.38023,1.1376)">
+                    <path d="M255.678,329.542L292.228,317.515L298.103,324.749" style="fill:none;stroke:black;stroke-width:2.62px;"/>
+                </g>
+                <path d="M306.126,337.69L308.628,353.096" style="fill:none;stroke:black;stroke-width:2.62px;"/>
+            </g>
+            <g id="Texture">
+                <path d="M231.773,356.775L240.182,369.776L247.417,373.356" style="fill:none;stroke:black;stroke-width:2.62px;"/>
+                <path d="M252.758,396.323L241.979,391.188L236.413,382.835" style="fill:none;stroke:black;stroke-width:2.62px;"/>
+                <path d="M213.061,391.437L216.813,401.036" style="fill:none;stroke:black;stroke-width:2.62px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
