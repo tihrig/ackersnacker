@@ -1,16 +1,7 @@
 # ackersnacker
 
-A new Flutter project.
+Finished Project of Team ackersnacker for the #WirvsVirus Hackathon.
+To use, you need to generate a Google API key for use of Maps and Geocoder SDKs and place it in `android/app/src/main/AndroidManifest.xml` as well as `ios/Runner/AppDelegate.swift` at the specified positions.
+Also, server data have to be transferred from and to a server using the backend in [the backend repository](https://github.com/LSnyd/ackersnackerAPI). For that, the URL to the server needs to be placed in `lib/pages/BauerPage.dart` and `lib/pages/MapPage.dart` at the specified positions.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A compiled APK to test the App with a usable API key and running server will be provided shortly.
